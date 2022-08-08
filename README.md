@@ -1,0 +1,1 @@
+This set of poorly-written scripts will take a newline-seperated file of songs, search for them, and add the first result to a playlist. 
